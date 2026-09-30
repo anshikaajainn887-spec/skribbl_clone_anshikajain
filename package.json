@@ -1,0 +1,19 @@
+{
+  "name": "skribbl-clone",
+  "version": "1.0.0",
+  "scripts": {
+    "dev:server": "node server/index.js",
+    "dev:client": "vite client",
+    "build": "vite build client",
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^5.4.0",
+    "@vitejs/plugin-react": "^4.3.1"
+  }
+}
