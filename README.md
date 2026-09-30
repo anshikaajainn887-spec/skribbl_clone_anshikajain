@@ -2,7 +2,7 @@
 
 Multiplayer drawing & guessing game. React + Vite, Node + Express, Socket.IO, HTML5 Canvas.
 
-**Live URL:** https://YOUR-APP.onrender.com  <!-- replace after deploying -->
+**Live URL:** https://skribbl-clone-anshikajain.onrender.com <!-- replace after deploying -->
 
 ## Run locally
 ```bash
